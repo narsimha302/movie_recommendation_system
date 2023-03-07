@@ -1,4 +1,5 @@
 # running command streamlit run app.py
+# make sure to keep pickle files in the folder
 
 import pickle
 import streamlit as st
