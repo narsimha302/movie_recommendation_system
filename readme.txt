@@ -1,3 +1,5 @@
 Download tmdb(credits,movies) datasets from kaggle
 
-streamlit command : streamlit app.py 
+firstly implement .ipynb file , after generating pkl files  run the below command:
+
+ streamlit command : streamlit app.py 
